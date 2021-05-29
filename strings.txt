@@ -1,0 +1,14 @@
+<resources>
+    <string name="contact">Chat with seller</string>
+    <string name="purposeofad">Sale</string>
+    <string name="time">3 hours ago</string>
+    <string name="title">مشاية طفل للبيع</string>
+    <string name="description"> هههههجماعه انا عارضه اللعبه دي للبيع مش محتاجاها مش محتاجاها مش محتاجاها مش مهههههها مش محتاجاها مش محتاجاها مش محتاجاها مش</string>
+    <string name="address">سيدي بشر</string>
+    <string name="price">200 LE</string>
+    <string name="sellername">آيه سعيد</string>
+
+
+
+
+</resources>
